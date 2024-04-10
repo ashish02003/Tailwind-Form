@@ -1,0 +1,53 @@
+.sign-up{
+    /* background-color: chartreuse; */
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.sign-up input{
+    margin:5px;
+    padding:10px;
+    outline: none;
+    border: none;
+    
+}
+
+
+.personal-Info{
+    /* background-color: chartreuse; */
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.personal-Info input{
+    margin:5px;
+    padding:10px;
+    outline: none;
+    border: none;
+}
+
+.other-info{
+    /* background-color: chartreuse; */
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.other-info input{
+    margin:5px;
+    padding:10px;
+    outline: none;
+    border: none;
+}
